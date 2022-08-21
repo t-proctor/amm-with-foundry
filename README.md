@@ -6,7 +6,7 @@ An Automated Market Maker that uses Foundry
 H/T SmartContractKit for the [Foundry boilerplate](https://github.com/smartcontractkit/foundry-starter-kit)
 <br/>
 
-H/T MetaHawq for the [AMM design](https://github.com/MetaHawq/avax-amm/blob/main/contracts/AMM.sol)
+H/T MetaHawq for the AMM design
 
 
 
